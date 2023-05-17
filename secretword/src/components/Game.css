@@ -46,3 +46,24 @@
     text-align: center;
     margin-right: 1em;
 }
+
+
+@media only screen and (max-width: 600px) {
+
+    .game h1 {
+      font-size: 1.8em;
+    }
+    .letter,
+    .blankSquare {
+      font-size: 40px;
+      height: 60px;
+      width: 60px;
+    }
+    .letterContainer input {
+      height: 40px;
+      width: 40px;
+      font-size: 1.5em;
+      margin-right: 0.5em;
+    }
+  
+  }
