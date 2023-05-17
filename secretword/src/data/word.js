@@ -1,8 +1,8 @@
 export const wordsList = {
-    Automóvel: ["Motor", "Porta", "Capot", "Pneu", "Antena"],
-    Fruta: ["Banana", "Maçã", "Pêra", "Mamão", "Laranja"],
+    Flores: ["Orquídea", "Begônia", "Lírio", "Gerbera", "Girassol"],
+    Fruta: ["Banana", "Manga", "Pêra", "Morango", "Laranja"],
     Corpo: ["Braço", "Perna", "Cérebro", "Pescoço", "Olhos"],
-    Computador: ["Mouse", "Teclado", "Monitor", "Gabinete"],
+    Países: ["Senegal", "Japão", "Colombia", "Camarões"],
     Animais: ["Leão", "Cão", "Galinha", "Girafa"],
     Alimentos: ["Arroz", "Feijão", "Carne", "Leite", "Ovo"],
   };
